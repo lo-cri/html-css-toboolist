@@ -25,15 +25,20 @@ main{
     font-size: 14px;
     position: relative;
     left: 30%;
-    background-color: white;
     margin-top: 80px;
-    ;
+}
+
+.container{
+    width: 60%;
+    margin: auto;
+    margin-bottom: 80px;
 }
 
 section{
     position: relative;
     left: 30%;
-    margin-top:50px;
+    margin-top:20px;
+    margin-left:0px;
     width: 300px;
     background-color: white;
 }
@@ -48,19 +53,26 @@ section{
     border-radius: 7px;
     color: white;
     font-size: 12px;
+    margin-top: 18px;
 }
 
 #butt2{
     background-color: white;
     border: 1px solid lightgrey;
-    padding: 4px 10px;
+    padding: 3px 10px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
     border-radius: 7px;
     color: white;
     font-size: 12px;
+    margin-top: 18px;
 }
+
+hr{
+    border: 1px solid whitesmoke;
+}
+
 
 .positivo{
     border: 1px solid lightgreen;
@@ -166,4 +178,8 @@ section{
     color: white;
     font-size: 12px;
 
+}
+
+.spazio{
+    margin-bottom: 20px;
 }

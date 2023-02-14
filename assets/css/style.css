@@ -1,5 +1,9 @@
+@import url('https://fonts.google.com/specimen/Poppins?hl=it');
+
 body{
     background-color: whitesmoke;
+    font-size: 18px;
+    font-family: Poppins, sans-serif;
 }
 
 
@@ -11,4 +15,63 @@ header{
 
 #logo{
     vertical-align: middle;
+}
+
+main{
+    background-color: white;
+}
+
+.buttons{
+    font-size: 14px;
+    position: relative;
+    left: 30%;
+    background-color: white;
+    margin-top: 80px;
+    ;
+}
+
+section{
+    position: relative;
+    left: 30%;
+    margin-top:50px;
+    width: 300px;
+    background-color: white;
+}
+
+#butt1{
+    background-color: lightskyblue;
+    border-radius: 10%;
+    height: 25px;
+    width: 70px;
+    border-radius: 10%;
+    display: inline-block;
+}
+
+.positivo{
+    border: 1px solid lightgreen;
+    text-align: center;
+    display: inline-block;  
+    border-radius: 50%;
+    width: 13px;
+    height: 14px;
+}
+
+.checkmark{
+    font-size:12px;
+    color: lightgreen;
+}
+
+.negativo{
+    border: 1px solid lightsalmon;
+    text-align: center;
+    display: inline-block;  
+    border-radius: 50%;
+    width: 13px;
+    height: 14px;
+}
+
+.neg{
+    font-size: 12px;
+    color: lightsalmon;
+
 }

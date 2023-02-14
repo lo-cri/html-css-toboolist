@@ -1,0 +1,14 @@
+body{
+    background-color: whitesmoke;
+}
+
+
+header{
+    height: 65px;
+    font-size: 40px;
+    background-color: white;
+}
+
+#logo{
+    vertical-align: middle;
+}

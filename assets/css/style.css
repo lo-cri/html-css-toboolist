@@ -39,12 +39,27 @@ section{
 }
 
 #butt1{
-    background-color: lightskyblue;
-    border-radius: 10%;
-    height: 25px;
-    width: 70px;
-    border-radius: 10%;
+    background-color: lightblue;
+    border: none;
+    padding: 4px 10px;
+    text-align: center;
+    text-decoration: none;
     display: inline-block;
+    border-radius: 7px;
+    color: white;
+    font-size: 12px;
+}
+
+#butt2{
+    background-color: white;
+    border: 1px solid lightgrey;
+    padding: 4px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 7px;
+    color: white;
+    font-size: 12px;
 }
 
 .positivo{
@@ -73,5 +88,82 @@ section{
 .neg{
     font-size: 12px;
     color: lightsalmon;
+
+}
+
+.symblue{
+    background-color: lightskyblue;
+    border: none;
+    padding: 4px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 13px;
+    color: white;
+    font-size: 12px;
+
+}
+
+.sympurp{
+    background-color: lightpink;
+    border: none;
+    padding: 4px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 13px;
+    color: white;
+    font-size: 12px;
+
+}
+
+.symgree{
+    background-color: lightseagreen;
+    border: none;
+    padding: 4px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 13px;
+    color: white;
+    font-size: 12px;
+
+}
+
+.symora{
+    background-color: orange;
+    border: none;
+    padding: 4px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 13px;
+    color: white;
+    font-size: 12px;
+
+}
+
+.sympink{
+    background-color: hotpink;
+    border: none;
+    padding: 4px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 13px;
+    color: white;
+    font-size: 12px;
+}
+
+.symsage{
+    background-color: seagreen;
+    border: none;
+    padding: 4px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 13px;
+    color: white;
+    font-size: 12px;
 
 }
